@@ -1,0 +1,18 @@
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Developer
+
+Jayden Jeong
+github.com/krozzi
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+React
+Next.js
+shadCN
+Locomotive Scroll
+_______________________________________________________________________________
