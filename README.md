@@ -4,11 +4,6 @@ Built using NextJS, shadCN, Locomotive Scroll v5, TailwindCSS, and next-themes b
 
 # Contributing
 
-Please find the branch with your corresponding name and ONLY commit to that branch. Every few weeks or so we will meet up and discuss implementing and borrowing design ideas and implementations as a group. These implementations will be done through pull requests without any direct commits.
-
-As of now, contributions are not being accepted as the 2023 TSA season is still ongoing and accepting outside help will result in disqualification.
-However, for future reference, you may contribute through the following steps:
-
 To contribute, simply clone this repository and run 
 ```cmd
 npm i
