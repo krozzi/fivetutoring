@@ -25,11 +25,9 @@ export default function Home() {
       <main>
 
 
-        <section>
+        <section className="flex flex-col h-screen hero justify-center items-center">
             <div className="">
-
-              hello, world!
-
+              <h1 className="text-9xl font-semibold">Hello FiveTutoring!</h1>
             </div>
         </section>
       
