@@ -1,5 +1,6 @@
 # FiveTutoring | An informational website
 An informational website built for the FiveTutoring organization.
+Built using NextJS, shadCN, Locomotive Scroll v5, TailwindCSS, and next-themes by Jayden Jeong
 
 # Contributing
 
